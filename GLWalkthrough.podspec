@@ -23,11 +23,11 @@ Pod::Spec.new do |s|
       GLWalkthrough is a easily configurable plug and play tool to add walkthrough or coachmarker functionality to your app in ease.
                        DESC
 
-  s.homepage         = 'https://github.com/cmtripian/GLWalkthrough'
+  s.homepage         = 'https://github.com/cmtripian/GLWalkthrough_cm'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'gokulgovind' => 'gokulece26@gmail.com' }
-  s.source           = { :git => 'https://github.com/cmtripian/GLWalkthrough.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/cmtripian/GLWalkthrough_cm.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
