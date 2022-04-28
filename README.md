@@ -17,7 +17,7 @@ GLWalkthrough is available through [CocoaPods](https://cocoapods.org). To instal
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'GLWalkthrough'
+pod 'GLWalkthrough_cm'
 ```
 ### Preview
 <img src="Designs/screen_shot_bottom.png" width=380> 
